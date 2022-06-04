@@ -1,0 +1,31 @@
+### A1: Face of the tower
+- Outdoor lighting
+- Monumental sculpted face with a beard, crown, with screaming mouth.
+	- In mouth, **Antechamber**, has Stale musk & scattered bird & rabbit bones
+		- Wall of pitted iron with **open gate** at center leading to interior.
+			- Gate has rusted hinges & a *smashed lock*. 
+			- Propped open with *large stone*.
+- Near gate, 2 story **Gnarled tree** with thick branches & sparse foliage
+	- Can support human climber to barred eyes of tower (A5).
+		- From A5 face, can climb to rooftop battlements (A9) with climb check.
+	- Bit of **Rope** (10') tied around 1 of the branches
+### A2: Entry Chamber
+- Outdoor lighting, from entrance.
+- Crude, weathered stone chamber carved directly from rock outcropping. Floor full of dirt, **rock piles** and dried grass stopping at **circle** at centre of tower. A3 Phantasms stare at any living being here.
+	- Rock piles cover 2 scorch marks (campfire) & a ring of stones around a pile of ash (The stone ring looks a couple of months old only.)
+	- debris free 10' circle inlaid with **jade plates** with magic sigils & **warning**. If inside, a high-pitched keening wail is heard.
+		- Jade plates can't be pried whole but can be shattered for 200 sp.
+		- Warning in ancient language to stay out of tower.
+		- MU or arcana roll reveals that circle is a ward & sigils are protective.
+		- Objects in ward are slowly pushed to outer edges (1'/turn)
+- 10' tall ceiling with wooden beams supporting worked stone.
+### A3: Museum of Horror
+- Dim outdoor lighting, from entrance
+- Filled with phantasms, 2d6 in morning. In afternoon, 2 in 6 of 1d6/2 (reroll every time party passes).
+- 3 connected rooms with **carvings**. Middle chamber has a **throne**. Southern chamber has spiral **stairs** (up/down).
+	- Carvings jutt out a bit from stone walls. Smashed and scratched but still decipherable.
+	- North room: Carving of a cruel overlord using large magic device to defeat & capture people.
+	- Middle room: Carving of overlord delighting in torment & torture of captives during reign. **Throne** carved into stone wall with 
+		- seat full of uncomfortable stone knobs & brown stains.
+		- Back of throne evokes downswept wings. Carving above says "DESPISED.BY.GOD"
+	- South room: Carving (most damaged) of overlord defeated by divine intervention & then his slow execution. Room has **stairs**.
